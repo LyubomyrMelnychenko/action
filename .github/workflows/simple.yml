@@ -37,6 +37,6 @@ jobs:
           echo My first name Lyubomyr,
           echo My surename Melnychenko,
           # echo $USER,
-          # u = $USER,
-          # echo Neme user $u,
-          id -u.
+          u = $USER,
+          echo Neme user $u.
+        
