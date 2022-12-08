@@ -39,4 +39,4 @@ jobs:
           # echo $USER,
           # u = $USER,
           # echo Neme user $u,
-          id -u -n.
+          id -u.
