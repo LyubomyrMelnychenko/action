@@ -35,7 +35,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project,
           echo My first name Lyubomyr,
-          echo My surename Melnychenko.M.
+          echo My surename Melnychenko_M.
         
         
         
