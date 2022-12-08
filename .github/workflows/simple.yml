@@ -36,7 +36,7 @@ jobs:
           echo test, and deploy your project,
           echo My first name Lyubomyr,
           echo My surename Melnychenko,
-          echo $USER,
-          u = $USER,
-          echo Neme user $u,
-          id -u -n.
+          # echo $USER,
+          # u = $USER,
+          # echo Neme user $u,
+          # id -u -n.
