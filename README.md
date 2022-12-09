@@ -1,2 +1,2 @@
-# action
+# actions
 Simple exemple Action
